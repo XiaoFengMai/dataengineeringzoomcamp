@@ -1,1 +1,1 @@
-# dataengineeringzoomcamp
+# dataengineeringzoomcamp project setup
